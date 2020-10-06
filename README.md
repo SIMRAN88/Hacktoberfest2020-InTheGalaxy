@@ -18,7 +18,7 @@ Click on "Start Hacking" and add your GitHub account.
 
 ## This project is perfect for your first pull request
 
-## View the Pgae Live [`In the Galaxy`](https://in-the-galaxy.netlify.app/)
+## View the Page Live [`In the Galaxy`](https://in-the-galaxy.netlify.app/)
 
 ## Instructions-
 

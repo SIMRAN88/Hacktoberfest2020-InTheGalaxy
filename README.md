@@ -1,7 +1,7 @@
 # Hacktoberfest2020-InTheGalaxy
 
 Make your first Pull Request and earn amazing swags.
-Welcome to a trip to the galaxy to become a valid member you have to add yourself in the passenger list and lets celebrate open source while travelling to the galaxy.
+Welcome to a trip to the galaxy.To become a valid member you have to add yourself in the passenger list and lets celebrate open source while travelling to the galaxy.
 
 ## Instructions:
 
@@ -17,6 +17,8 @@ Click on "Start Hacking" and add your GitHub account.
 # Welcome to GitHub!
 
 ## This project is perfect for your first pull request
+
+## View the Pgae Live [`In the Galaxy`](https://in-the-galaxy.netlify.app/)
 
 ## Instructions-
 
